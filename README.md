@@ -14,5 +14,3 @@ A highly scalable, asynchronous AI API Gateway engineered to centralize traffic,
 * **Storage & Caching:** Redis (Asyncio)
 * **Observability:** Prometheus Client
 * **Infrastructure:** Docker
-
-=
