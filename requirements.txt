@@ -1,0 +1,8 @@
+fastapi
+uvicorn
+pydantic
+pydantic-settings
+httpx
+pyyaml
+redis==5.0.4
+prometheus-client==0.20.0
